@@ -1,0 +1,15 @@
+A:\UP\prufer_1\prufer_1\bin\Debug\net6.0\prufer_1.exe
+A:\UP\prufer_1\prufer_1\bin\Debug\net6.0\prufer_1.deps.json
+A:\UP\prufer_1\prufer_1\bin\Debug\net6.0\prufer_1.runtimeconfig.json
+A:\UP\prufer_1\prufer_1\bin\Debug\net6.0\prufer_1.dll
+A:\UP\prufer_1\prufer_1\bin\Debug\net6.0\prufer_1.pdb
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\prufer_1.csproj.AssemblyReference.cache
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\prufer_1.GeneratedMSBuildEditorConfig.editorconfig
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\prufer_1.AssemblyInfoInputs.cache
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\prufer_1.AssemblyInfo.cs
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\prufer_1.csproj.CoreCompileInputs.cache
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\prufer_1.dll
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\refint\prufer_1.dll
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\prufer_1.pdb
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\prufer_1.genruntimeconfig.cache
+A:\UP\prufer_1\prufer_1\obj\Debug\net6.0\ref\prufer_1.dll
